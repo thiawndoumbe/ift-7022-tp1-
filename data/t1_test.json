@@ -1,0 +1,632 @@
+[
+    {
+        "text": "0,25 tasse beurre",
+        "quantity": "0,25 tasse",
+        "ingredient": "beurre"
+    },
+    {
+        "text": "0,5 tasse sucre",
+        "quantity": "0,5 tasse",
+        "ingredient": "sucre"
+    },
+    {
+        "text": "2 bananes en purée",
+        "quantity": "2",
+        "ingredient": "bananes"
+    },
+    {
+        "text": "2 oeufs",
+        "quantity": "2",
+        "ingredient": "oeufs"
+    },
+    {
+        "text": "2 tasses farine",
+        "quantity": "2 tasses",
+        "ingredient": "farine"
+    },
+    {
+        "text": "2 cuillères à café poudre à pâte",
+        "quantity": "2 cuillères à café",
+        "ingredient": "poudre à pâte"
+    },
+    {
+        "text": "0,5 cuillère à café bicarbonate de sodium",
+        "quantity": "0,5 cuillère à café",
+        "ingredient": "bicarbonate de sodium"
+    },
+    {
+        "text": "0,5 cuillère à café sel",
+        "quantity": "0,5 cuillère à café",
+        "ingredient": "sel"
+    },
+    {
+        "text": "0,5 tasse lait",
+        "quantity": "0,5 tasse",
+        "ingredient": "lait"
+    },
+    {
+        "text": "1,5 tasse farine",
+        "quantity": "1,5 tasse",
+        "ingredient": "farine"
+    },
+    {
+        "text": "1 cuillère à café poudre à pâte",
+        "quantity": "1 cuillère à café",
+        "ingredient": "poudre à pâte"
+    },
+    {
+        "text": "0,25 tasse beurre",
+        "quantity": "0,25 tasse",
+        "ingredient": "beurre"
+    },
+    {
+        "text": "1 tasse sucre",
+        "quantity": "1 tasse",
+        "ingredient": "sucre"
+    },
+    {
+        "text": "1 tasse lait",
+        "quantity": "1 tasse",
+        "ingredient": "lait"
+    },
+    {
+        "text": "1 tasse sirop d'érable",
+        "quantity": "1 tasse",
+        "ingredient": "sirop d'érable"
+    },
+    {
+        "text": "1 tasse cassonade",
+        "quantity": "1 tasse",
+        "ingredient": "cassonade"
+    },
+    {
+        "text": "1 tasse eau bouillante",
+        "quantity": "1 tasse",
+        "ingredient": "eau bouillante"
+    },
+    {
+        "text": "0,25 tasse beurre",
+        "quantity": "0,25 tasse",
+        "ingredient": "beurre"
+    },
+    {
+        "text": "6 pommes vertes pelées, en tranches",
+        "quantity": "6",
+        "ingredient": "pommes vertes"
+    },
+    {
+        "text": "0,67 tasse sirop d'érable",
+        "quantity": "0,67 tasse",
+        "ingredient": "sirop d'érable"
+    },
+    {
+        "text": "0,75 tasse farine",
+        "quantity": "0,75 tasse",
+        "ingredient": "farine"
+    },
+    {
+        "text": "0,75 tasse gruau",
+        "quantity": "0,75 tasse",
+        "ingredient": "gruau"
+    },
+    {
+        "text": "0,5 tasse cassonade",
+        "quantity": "0,5 tasse",
+        "ingredient": "cassonade"
+    },
+    {
+        "text": "sel",
+        "quantity": "",
+        "ingredient": "sel"
+    },
+    {
+        "text": "0,5 tasse beurre",
+        "quantity": "0,5 tasse",
+        "ingredient": "beurre"
+    },
+    {
+        "text": "4 cuillères à soupe huile d'olive",
+        "quantity": "4 cuillères à soupe",
+        "ingredient": "huile d'olive"
+    },
+    {
+        "text": "2 cuillères à soupe jus de citron",
+        "quantity": "2 cuillères à soupe",
+        "ingredient": "jus de citron"
+    },
+    {
+        "text": "2 gousses d'ail",
+        "quantity": "2 gousses",
+        "ingredient": "ail"
+    },
+    {
+        "text": "1 cuillère à soupe moutarde de Dijon",
+        "quantity": "1 cuillère à soupe",
+        "ingredient": "moutarde de Dijon"
+    },
+    {
+        "text": "3 échalotes coupées finement",
+        "quantity": "3",
+        "ingredient": "échalotes"
+    },
+    {
+        "text": "8 champignons émincés",
+        "quantity": "8",
+        "ingredient": "champignons"
+    },
+    {
+        "text": "0,75 tasse vin blanc sec",
+        "quantity": "0,75 tasse",
+        "ingredient": "vin blanc sec"
+    },
+    {
+        "text": "2 tasses crème 35%",
+        "quantity": "2 tasses",
+        "ingredient": "crème 35%"
+    },
+    {
+        "text": "3 cuillères à soupe moutarde de Dijon",
+        "quantity": "3 cuillères à soupe",
+        "ingredient": "moutarde de Dijon"
+    },
+    {
+        "text": "1 pincée de muscade",
+        "quantity": "1 pincée",
+        "ingredient": "muscade"
+    },
+    {
+        "text": "poivre noir",
+        "quantity": "",
+        "ingredient": "poivre noir"
+    },
+    {
+        "text": "1 lb poitrine de poulet désossées et coupées en petits morceaux",
+        "quantity": "1 lb",
+        "ingredient": "poitrine de poulet"
+    },
+    {
+        "text": "2 cuillères à soupe (30 ml) fécule de maïs",
+        "quantity": "2 cuillères à soupe (30 ml)",
+        "ingredient": "fécule de maïs"
+    },
+    {
+        "text": "1 oeuf battu",
+        "quantity": "1",
+        "ingredient": "oeuf"
+    },
+    {
+        "text": "3 cuillères à soupe (45 ml) farine tout usage",
+        "quantity": "3 cuillères à soupe (45 ml)",
+        "ingredient": "farine tout usage"
+    },
+    {
+        "text": "0,5 cuillère à café (2 ml) poudre à pâte",
+        "quantity": "0,5 cuillère à café (2 ml)",
+        "ingredient": "poudre à pâte"
+    },
+    {
+        "text": "0,5 cuillère à café (2 ml) sel",
+        "quantity": "0,5 cuillère à café (2 ml)",
+        "ingredient": "sel"
+    },
+    {
+        "text": "0,25 tasse (65 ml) huile végétale",
+        "quantity": "0,25 tasse (65 ml)",
+        "ingredient": "huile végétale"
+    },
+    {
+        "text": "2 cuillères à café (10 ml) huile de sésame",
+        "quantity": "2 cuillères à café (10 ml)",
+        "ingredient": "huile de sésame"
+    },
+    {
+        "text": "1 cuillère à soupe (15 ml) gingembre râpé",
+        "quantity": "1 cuillère à soupe (15 ml)",
+        "ingredient": "gingembre"
+    },
+    {
+        "text": "0,25 tasse (65 ml) oignon vert coupés en biseaux",
+        "quantity": "0,25 tasse (65 ml)",
+        "ingredient": "oignon vert"
+    },
+    {
+        "text": "0,25 tasse (65 ml) eau ou au goût",
+        "quantity": "0,25 tasse (65 ml) ou au goût",
+        "ingredient": "eau"
+    },
+    {
+        "text": "2 cuillères à soupe (30 ml) vinaigre blanc",
+        "quantity": "2 cuillères à soupe (30 ml)",
+        "ingredient": "vinaigre blanc"
+    },
+    {
+        "text": "0,25 tasse (65 ml) sucre ou au goût",
+        "quantity": "0,25 tasse (65 ml) ou au goût",
+        "ingredient": "sucre"
+    },
+    {
+        "text": "1 cuillère à soupe (15 ml) fécule de maïs",
+        "quantity": "cuillère à soupe (15 ml)",
+        "ingredient": "fécule de maïs"
+    },
+    {
+        "text": "1 cuillère à soupe (15 ml) sauce soya",
+        "quantity": "1 cuillère à soupe (15 ml)",
+        "ingredient": "sauce soya"
+    },
+    {
+        "text": "2 cuillères à soupe (30 ml) sauce aux huîtres",
+        "quantity": "2 cuillères à soupe (30 ml)",
+        "ingredient": "sauce aux huîtres"
+    },
+    {
+        "text": "2 cuillères à soupe (30 ml) ketchup",
+        "quantity": "2 cuillères à soupe (30 ml)",
+        "ingredient": "ketchup"
+    },
+    {
+        "text": "3 tasses pommes de terre en purée",
+        "quantity": "3 tasses",
+        "ingredient": "pommes de terre"
+    },
+    {
+        "text": "0,5 tasse fromage cheddar râpé",
+        "quantity": "0,5 tasse",
+        "ingredient": "fromage cheddar"
+    },
+    {
+        "text": "0,5 tasse mayonnaise",
+        "quantity": "0,5 tasse",
+        "ingredient": "mayonnaise"
+    },
+    {
+        "text": "0,25 tasse échalote hachées",
+        "quantity": "0,25 tasse",
+        "ingredient": "échalote"
+    },
+    {
+        "text": "1 oeuf battu",
+        "quantity": "1",
+        "ingredient": "oeuf"
+    },
+    {
+        "text": "2 boîtes de conserve (213 g) saumons",
+        "quantity": "2 boîtes de conserve (213 g)",
+        "ingredient": "saumons"
+    },
+    {
+        "text": "2 filets de porc",
+        "quantity": "2",
+        "ingredient": "filets de porc"
+    },
+    {
+        "text": "185 mL (3/4 tasse) sauce chili",
+        "quantity": "185 mL (3/4 tasse)",
+        "ingredient": "sauce chili"
+    },
+    {
+        "text": "125 mL (1/2 tasse) sirop d'érable",
+        "quantity": "125 mL (1/2 tasse)",
+        "ingredient": "sirop d'érable"
+    },
+    {
+        "text": "1 enveloppe soupe à l'oignon",
+        "quantity": "1 enveloppe",
+        "ingredient": "soupe à l'oignon"
+    },
+    {
+        "text": "1 rôti de 675 g (1 ½ lb) de filet mignon de bœuf (prélevé dans le centre du filet)",
+        "quantity": "1 rôti de 675 g (1 ½ lb)",
+        "ingredient": "filet mignon de bœuf"
+    },
+    {
+        "text": "30 ml (2 c. à soupe) d’huile d’olive",
+        "quantity": "30 ml (2 c. à soupe)",
+        "ingredient": "huile d’olive"
+    },
+    {
+        "text": "190 g (¾ tasse) de beurre non salé",
+        "quantity": "190 g (¾ tasse)",
+        "ingredient": "beurre non salé"
+    },
+    {
+        "text": "1 échalote française, hachée",
+        "quantity": "1",
+        "ingredient": "échalote française"
+    },
+    {
+        "text": "2,5 ml (½ c. à thé) de grains de poivre noir concassés",
+        "quantity": "2,5ml (½ c. à thé)",
+        "ingredient": "grains de poivre noir"
+    },
+    {
+        "text": "4 jaunes d’œufs",
+        "quantity": "4",
+        "ingredient": "jaunes d’œufs"
+    },
+    {
+        "text": "45 ml (3 c. à soupe) d’eau",
+        "quantity": "45 ml (3 c. à soupe)",
+        "ingredient": "eau"
+    },
+    {
+        "text": "30 ml (2 c. à soupe) de vinaigre de vin blanc",
+        "quantity": "30 ml (2 c. à soupe)",
+        "ingredient": "vinaigre de vin blanc"
+    },
+    {
+        "text": "7,5 ml (1 ½ c. à thé) d’estragon frais ciselé",
+        "quantity": "7,5 ml (1 ½ c. à thé)",
+        "ingredient": "estragon frais"
+    },
+    {
+        "text": "500 ml (2 tasses) de bouillon de poulet",
+        "quantity": "500 ml (2 tasses)",
+        "ingredient": "bouillon de poulet"
+    },
+    {
+        "text": "275 g (2 tasses) de pommes de terre rattes coupées en rondelles de 5 mm (¼ po) d’épaisseur",
+        "quantity": "275 g (2 tasses)",
+        "ingredient": "pommes de terre"
+    },
+    {
+        "text": "170 g (6 oz) d’oignons perlés, pelés et coupés en deux",
+        "quantity": "170 g (6 oz)",
+        "ingredient": "oignons perlés"
+    },
+    {
+        "text": "340 g (¾ lb) d’asperges, parées et coupées en tronçons de 4 cm (2 ½ po)",
+        "quantity": "340 g (¾ lb)",
+        "ingredient": "asperges"
+    },
+    {
+        "text": "6 oignons verts, coupés en tronçons de 4 cm (2 ½ po)",
+        "quantity": "6",
+        "ingredient": "oignons verts"
+    },
+    {
+        "text": "3 homards d’environ 340 g (¾ lb) chacun, décortiqués (les pinces entières et la chair coupée en morceaux)",
+        "quantity": "3 d’environ 340 g (¾ lb) chacun",
+        "ingredient": "homards"
+    },
+    {
+        "text": "Sel et poivre",
+        "quantity": "",
+        "ingredient": "Sel et poivre"
+    },
+    {
+        "text": "250 g de nouilles de riz",
+        "quantity": "250 g",
+        "ingredient": "nouilles de riz"
+    },
+    {
+        "text": "Préparation de la pâte épicée",
+        "quantity": "",
+        "ingredient": ""
+    },
+    {
+        "text": "1 petit piment rouge Thaï (type rawit)",
+        "quantity": "1",
+        "ingredient": "petit piment rouge Thaï (type rawit)"
+    },
+    {
+        "text": "2 gousses d’ail",
+        "quantity": "2 gousses",
+        "ingredient": "ail"
+    },
+    {
+        "text": "2 cébettes thaï",
+        "quantity": "2",
+        "ingredient": "cébettes thaï"
+    },
+    {
+        "text": "1 c. à s. de purée de tamarin",
+        "quantity": "1 c. à s.",
+        "ingredient": "purée de tamarin"
+    },
+    {
+        "text": "1 c. à c. de sucre",
+        "quantity": "1 c. à c.",
+        "ingredient": "sucre"
+    },
+    {
+        "text": "3 c. à s. de nam pla (nuoc-mâm)",
+        "quantity": "3 c. à s.",
+        "ingredient": "nam pla (nuoc-mâm)"
+    },
+    {
+        "text": "1 citron vert",
+        "quantity": "1",
+        "ingredient": "citron vert"
+    },
+    {
+        "text": "7 à 8 grosses crevettes roses",
+        "quantity": "7 à 8",
+        "ingredient": "grosses crevettes roses"
+    },
+    {
+        "text": "100 g de tofu ferme",
+        "quantity": "100 g",
+        "ingredient": "tofu ferme"
+    },
+    {
+        "text": "80 g de germes de soja",
+        "quantity": "80 g",
+        "ingredient": "germes de soja"
+    },
+    {
+        "text": "2 œufs",
+        "quantity": "2",
+        "ingredient": "œufs"
+    },
+    {
+        "text": "sel et poivre du moulin au goût",
+        "quantity": "au goût",
+        "ingredient": "sel et poivre du moulin"
+    },
+    {
+        "text": "40 g de cacahuètes torréfiées",
+        "quantity": "40 g",
+        "ingredient": "cacahuètes"
+    },
+    {
+        "text": "½ botte de coriandre",
+        "quantity": "½ botte",
+        "ingredient": "coriandre"
+    },
+    {
+        "text": "1 citron vert",
+        "quantity": "1",
+        "ingredient": "citron vert"
+    },
+    {
+        "text": "3 c. à s. d’huile de sésame et arachide",
+        "quantity": "3 c. à s.",
+        "ingredient": "huile de sésame et arachide"
+    },
+    {
+        "text": "3 c. à s. de nam pla",
+        "quantity": "3 c. à s.",
+        "ingredient": "nam pla"
+    },
+    {
+        "text": "1 petit oignon rouge, émincé",
+        "quantity": "1",
+        "ingredient": "petit oignon rouge"
+    },
+    {
+        "text": "2 gousses d’ail, hachées",
+        "quantity": "2 gousses",
+        "ingredient": "ail"
+    },
+    {
+        "text": "45 ml (3 c. à soupe) d’huile d’olive",
+        "quantity": "45 ml (3 c. à soupe)",
+        "ingredient": "huile d’olive"
+    },
+    {
+        "text": "75 ml (1/3 tasse) de vin blanc",
+        "quantity": "75 ml (1/3 tasse)",
+        "ingredient": "vin blanc"
+    },
+    {
+        "text": "250 ml (1 tasse) de bouillon de poulet",
+        "quantity": "250 ml (1 tasse)",
+        "ingredient": "bouillon de poulet"
+    },
+    {
+        "text": "16 petites palourdes dans leur coquille, rincées",
+        "quantity": "16",
+        "ingredient": "petites palourdes"
+    },
+    {
+        "text": "2,5 ml (1/2 c. à thé) de safran",
+        "quantity": "2,5 ml (1/2 c. à thé)",
+        "ingredient": "safran"
+    },
+    {
+        "text": "1 kg (2 lb) de moules, lavées et nettoyées",
+        "quantity": "1 kg (2 lb)",
+        "ingredient": "moules"
+    },
+    {
+        "text": "340 g (3/4 lb) de langoustines surgelées et décongelées (voir note)",
+        "quantity": "340 g (3/4 lb)",
+        "ingredient": "langoustines surgelées"
+    },
+    {
+        "text": "454 g (1 lb) d’asperges moyennes coupées en tronçons de 2 cm (3/4 po)",
+        "quantity": "454 g (1 lb)",
+        "ingredient": "asperges moyennes"
+    },
+    {
+        "text": "250 ml (1 tasse) de tomates cerises jaunes, coupées en deux",
+        "quantity": "250 ml (1 tasse)",
+        "ingredient": "tomates cerises jaunes"
+    },
+    {
+        "text": "30 ml (2 c. à soupe) de persil plat ciselé",
+        "quantity": "30 ml (2 c. à soupe)",
+        "ingredient": "persil plat"
+    },
+    {
+        "text": "30 ml (2 c. à soupe) de beurre, ramolli (facultatif)",
+        "quantity": "30 ml (2 c. à soupe) (facultatif)",
+        "ingredient": "beurre"
+    },
+    {
+        "text": "Croûtons à l’huile d’olive",
+        "quantity": "",
+        "ingredient": "Croûtons à l’huile d’olive"
+    },
+    {
+        "text": "12 tranches de pain baguette d’environ 1,5 cm (1/2 po) d’épaisseur",
+        "quantity": "12 tranches",
+        "ingredient": "pain baguette"
+    },
+    {
+        "text": "1 gousse d’ail, pelée et coupée en deux",
+        "quantity": "1 gousse",
+        "ingredient": "ail"
+    },
+    {
+        "text": "60 ml (1/4 tasse) d’huile d’olive",
+        "quantity": "60 ml (1/4 tasse)",
+        "ingredient": "huile d’olive"
+    },
+    {
+        "text": "300 g de pâte brisée",
+        "quantity": "300 g",
+        "ingredient": "pâte brisée"
+    },
+    {
+        "text": "Beurre pour fonçage",
+        "quantity": "",
+        "ingredient": "Beurre"
+    },
+    {
+        "text": "300 g de tomates cerises rouges",
+        "quantity": "300 g",
+        "ingredient": "tomates cerises rouges"
+    },
+    {
+        "text": "300 g de tomates cerises jaunes",
+        "quantity": "300 g",
+        "ingredient": "tomates cerises jaunes"
+    },
+    {
+        "text": "30 g de sucre semoule",
+        "quantity": "30 g",
+        "ingredient": "sucre semoule"
+    },
+    {
+        "text": "3 c. à .s d’eau",
+        "quantity": "3 c. à .s",
+        "ingredient": "eau"
+    },
+    {
+        "text": "5 c. à .s de vinaigre balsamique",
+        "quantity": "5 c. à .s",
+        "ingredient": "vinaigre balsamique"
+    },
+    {
+        "text": "2 gousses d’ail",
+        "quantity": "2 gousses",
+        "ingredient": "ail"
+    },
+    {
+        "text": "200 g de ricotta",
+        "quantity": "200 g",
+        "ingredient": "ricotta"
+    },
+    {
+        "text": "Quelques sommités de basilic",
+        "quantity": "Quelques sommités",
+        "ingredient": "basilic"
+    },
+    {
+        "text": "1 Bouquet de menthe, pour décorer",
+        "quantity": "1 Bouquet",
+        "ingredient": "menthe"
+    }
+]
